@@ -15,8 +15,6 @@ import (
 // BaseService is an service to handle data requests
 type BaseService struct {
 	Name string
-	//vapiRouter *VapiRouter
-	//Session *repositories.DatabaseSession
 }
 
 // HandleError returns the error response
